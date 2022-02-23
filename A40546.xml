@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and impartial account of the late besieging and taking of the famous castle of Killishandra; in the province of Ulster in Ireland by the brave Inniskilling forces. Also, K. James's late proclamation from Dublin, and the great scarcity of provisions there. With the present state of the late king's affairs, in the province of Lenester and Ulster. Licens'd, J. Fraser, and entered according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40546</idno>
+            <idno type="STC">Wing F2284</idno>
+            <idno type="STC">ESTC R215796</idno>
+            <idno type="EEBO-CITATION">99827565</idno>
+            <idno type="PROQUEST">99827565</idno>
+            <idno type="VID">31987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1847:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and impartial account of the late besieging and taking of the famous castle of Killishandra; in the province of Ulster in Ireland by the brave Inniskilling forces. Also, K. James's late proclamation from Dublin, and the great scarcity of provisions there. With the present state of the late king's affairs, in the province of Lenester and Ulster. Licens'd, J. Fraser, and entered according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.H. in Little Britain,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term>Ulster (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31987:1"/>
+            <pb facs="tcp:31987:1"/>
+            <head>A Full and Impartial ACCOUNT OF THE Late Beſieging and Taking OF THE <hi>Famous Caſtle of Killiſhandra<g ref="char:punc">▪</g>
+               </hi> In the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> in IRELAND: BY THE Brave Inniskilling Forces.</head>
+            <head type="sub">ALSO, K. <hi>James</hi>'s late Proclamation from <hi>Dublin,</hi> and the great ſcarcity of Pro<g ref="char:EOLhyphen"/>viſions there. With the preſent State of the Late King's Affairs, in the Province of <hi>Leneſter</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter.</hi>
+            </head>
+            <argument>
+               <p>Licens'd, <hi>J. Fraſer,</hi> And Entered according to Order.</p>
+            </argument>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>SInce my laſt, here being ſeveral Gen<g ref="char:EOLhyphen"/>tlemen of good Repute, both from <hi>Dublin,</hi> and the North of <hi>Ireland</hi> arrived, I think it not amiſs to fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h you with the true ſtate and condition Affairs, in and about both the fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntioned Places, as it hath been related to me by the ſaid Gentlemen, from one Mr. <hi>Johnſon,</hi> and three others that left <hi>Dublin</hi> the 6th. inſtant, and came here in an open Boat. We are informed that all ſorts of Proviſions are extreamly ſcarce and deer, in and about <hi>Dublin:</hi> That Mutton is ſold at Seven Pence, and Beef at Four
+<pb facs="tcp:31987:2"/> Pence a Pound. That there is little or no Bread to be had for money: an Alderman of <hi>Dublin,</hi> having declared to one Mr. <hi>Shirely,</hi> who came from the ſaid City, that he and his Family had not taſted one bit in four daies. That the late King had taken up all the Corn, and ordered it to be ſtored up for his uſe: And that it was diſcourſed; that a Proclamation was in the Preſs, for all Proteſtant Women and Chil<g ref="char:EOLhyphen"/>dren, to depart <hi>Dublin,</hi> to the North of <hi>Ireland,</hi> and the Men to the Province of <hi>Connagh.</hi> He further ſaith, that he ſaw Two Gompanies of the French Supplies, march into <hi>Dublin;</hi> and that ſeveral others were on their march that way. And that neither the late King, nor the <hi>Iriſh,</hi> are ſo well pleaſed therewith as was expected; moſt of the Men, of which the Regiments are compoſed, being Priſoners of War, and other Countries, and not Natives of <hi>France;</hi> for which Reaſon they rather diſtruſt them, then rely on their Truth and Fidelity to their Cauſe. The Regi<g ref="char:EOLhyphen"/>ments ſent to <hi>France,</hi> in lieu of theſe Sup<g ref="char:EOLhyphen"/>plies, are the Lord <hi>Caſtles,</hi> Collonel <hi>Browns,</hi> Coll. <hi>But<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Coll. <hi>Bryens,</hi> Coll. <hi>Fieldings,</hi> and two others, whoſe Names we can<g ref="char:EOLhyphen"/>not learn. That ſeveral of the <hi>Iriſh</hi> not being willing to leave their own Country, deſerted; and that at leaſt one Thouſand Proteſtants were Preſſed, to fill up the Vacancies.</p>
+            <p>A Ship of ours, brought in here Fif<g ref="char:EOLhyphen"/>teen Priſoners, which ſhe took Sailing in a Boat, between <hi>Wexſord</hi> and <hi>Dublin,</hi> (Four of which are Officers of the Iriſh Army) who affirm to us, that the late King, takes away, as well the Goods of Papiſts as Proteſtants, that are Vendable in <hi>France</hi> (ſuch as Tallow, Hydes, Wooll, <hi>&amp;c.</hi>) paying the one half in Copper Mo<g ref="char:EOLhyphen"/>ney now, and the other half at his Re-eſta<g ref="char:EOLhyphen"/>bliſhment in <hi>England.</hi> By the Lord <hi>Done<g ref="char:EOLhyphen"/>gall,</hi> who arrived here on Thurſday laſt, from our Army in <hi>Ireland,</hi> we are infor<g ref="char:EOLhyphen"/>med, that <hi>Charlemont</hi> is now actuall Beſieged: That the Miners Bombs, M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ters, Battering Pieces, Ammunition, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all other neceſſaries, were brought the<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before he left <hi>Ireland:</hi> And that two <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our French Regiments, lye now bef<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Town. That the Garriſon is mu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtraitned for want of Proviſions; ſo th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if it be not taken by Storm, they will b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forced ſuddenly to Surrender.</p>
+            <p>There arrived at <hi>Highlake</hi> this Wee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about 60 Sail of Ships from <hi>Bellfaſt,</hi> whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bring us an account that the Money an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Forces Shipp'd off here, under the Com<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Sir <hi>Cloudſly Shovell</hi> were ſafe arri<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there, and that Sir <hi>Cloudſly,</hi> with abo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 12 Men of War, left <hi>Carruckfergus <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wedneſday</hi> laſt, and ſteered their Cou<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> towards <hi>Dublin-Bay.</hi> That part of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Garriſon of <hi>Belturbet,</hi> have taken the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtle of <hi>Killiſhandra,</hi> three Miles diſtant fro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Belturbet,</hi> in which was three hundred In Soldiers, furniſhed with great ſtore Proviſion: The manner of its taking thus, a detached Party from <hi>Beltur<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> conſiſting moſt of the <hi>Inniskillin</hi> M<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> (who well knew the Country) marc<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> out in the Night, and before break of D<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> were got under the Walls of the Caſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and immediately fell to Digging, and U<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dermining the Walls, which noiſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> buſſel ſoon alarmed the Garriſon. Thou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at our Mens Approach, they w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> faſt aſleep. This ſudden ſurprize <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing not agreeable to the <hi>Irish</hi> Warri<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and finding themſelves ſo beſet, that they imagine) they could not peep o<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> without danger (to their eternal ſham<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſurrendred upon diſcretion. Yeſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>day marched from this City to <hi>High L<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Eight hundred Men, in order to the<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Tranſportation; and this Night one Reg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment of Foot is expected here, a gr<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> number of Ships lying at <hi>High Lake</hi> read to receive them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. H.</hi> in <hi>Little Britain,</hi> 1690.</p>
+            <pb facs="tcp:31987:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
